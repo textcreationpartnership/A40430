@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Lord Mayor, and the Court of Aldermen, at Guild-Hall Chappel, on the 8th of October, 1682 by Sam. Freeman ...</title>
+            <author>Freeman, Samuel, 1643-1700.</author>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40430</idno><idno type="EEBO-CITATION">12911898</idno>
+  <idno type="VID">95344</idno>
+  <idno type="EEBO-PROQUEST">2248527278</idno>
+  
+            <idno type="STC">Wing F2144</idno>
+            <idno type="STC">ESTC R6896</idno>
+            <idno type="OCLC">12911898</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Lord Mayor, and the Court of Aldermen, at Guild-Hall Chappel, on the 8th of October, 1682 by Sam. Freeman ...</title>
+                  <author>Freeman, Samuel, 1643-1700.</author>
+               </titleStmt>
+               <extent>[4], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Moore for Edward Gellibrand ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:95344:1"/>
+            <opener>
+               <signed>MOORE MAJOR.</signed>
+               <dateline>
+                  <date>
+                     <hi>Martis x</hi>
+                     <seg rend="sup">mo</seg>
+                     <hi>die</hi> Octob. 1682. <hi>Anno{que} Regni Regis</hi> Caroli <hi>Secundi</hi> Angl', <hi>&amp;c. xxxiiii</hi>
+                     <seg rend="sup">ta.</seg>
+                  </date>
+               </dateline>
+            </opener>
+            <p>This Court doth desire Mr. <hi>Freeman</hi> to Print his Sermon Preach'd at the <hi>Guild-Hall</hi> Chap<g ref="char:EOLhyphen"/>pelon <hi>Sunday</hi> last before the Lord Mayor and Aldermen of this City.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95344:1"/>
+            <p>A SERMON Preached before the Lord Mayor, AND THE Court of ALDERMEN, AT <hi>GUILD-HALL</hi> Chappel, ON The 8th of <hi>October,</hi> 1682.</p>
+            <p>By <hi>SAM. FREEMAN,</hi> M. A. And Rector of St. <hi>Ann's Aldersgate, London</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Moore</hi> for <hi>Edward Gellibrand</hi> at the Gol<g ref="char:EOLhyphen"/>den Ball in St. <hi>Paul</hi>'s Church-Yard.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95344:2"/>
+            <pb facs="tcp:95344:2"/>
+            <head>To the Right Honourable Sir <hi>John Moor</hi> Kt. Lord Mayor of the City of <hi>London.</hi> And to the Court of Aldermen.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>THE Design of the ensuing Discourse, now made publick by your Lordships Order, is to promote Truth and Righteousness and Peace amongst men, and so eminent an Instrument has your Lordship been, both by your Example and Authority, to dash the growing impudence of the contrary vices, that I presume it need not much doubt of your Lordships Shelter and Protection; the seasonableness of it, in this loose and ungovernable Age, will I hope, somewhat atone for its want of dress and elegancy; however, I am con<g ref="char:EOLhyphen"/>ten<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, it should be thought without Wit and without Art in the Composure, so
+<pb facs="tcp:95344:3"/> it be not without truth in the substance, nor without profit in the consequences of it; may it therefore, by the blessing of God, succeed to the producing in some good measure its design'd and desir'd effects in the minds of men, and may your Lordship and Honourable Brethren live many and many days to serve God, the King and establisht Government in Church and State, and thereby become restorers of Peace, and Virtue, and Uni<g ref="char:EOLhyphen"/>formity to this (at present) unhing'd, and discompacted City, is the earnest Prayers of,</p>
+            <closer>
+               <salute>My Lord</salute>
+               <signed>Your Lordships most humble, Faithful Servant <hi>Sam. Freeman.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:95344:3"/>
+            <head>A SERMON Preached <hi>October</hi> 8. 1682.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALM XXXIV. 12, 13, 14. Vers.</hi>
+                  </bibl>
+                  <lg>
+                     <l>What man is he that desireth life, and loveth many days, that he may see good?</l>
+                     <l>Keep thy tongue from evil, and thy lips from speaking guile.</l>
+                     <l>Depart from evil, and do good: seek peace and pursue it.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <p>NExt to the Salvation of a Man's Soul, and the Eternal Affairs of the future State, 'tis his Duty as well as his Interest to take care of this present Life; A compleat and uninterrupted course of happiness is not to be expected, but to be<g ref="char:EOLhyphen"/>come as little miserable as he can, may and ought to be his endeavour; Now how this is to be done, the Royal Prophet in the Text informs us, <hi>viz.</hi> not by complaining that the times are bad and the days evil, but
+<pb n="2" facs="tcp:95344:4"/> by endeavouring to make them better, And in order hereunto he lays down these Three Rules and Directions as the most useful and efficacious. The first is,</p>
+            <p n="1">1. To bridle our Tongues. <hi>Keep thy tongue from evil, and thy lips from speaking guile.</hi> The second,</p>
+            <p n="2">2. To live holyly. <hi>Depart from evil, and doe good.</hi> And the third,</p>
+            <p n="3">3. To live peaceably. <hi>Seek peace and pursue it.</hi>
+            </p>
+            <p n="1">1. The first is to bridle our Tongue, <hi>Keep thy tongue from evil,</hi> &amp;c. Innumerable evils grow from this roote of bitterness; I shall stay only to mention two as the most de<g ref="char:EOLhyphen"/>structive to the Common-Weale and safe<g ref="char:EOLhyphen"/>ty. And I begin with</p>
+            <p n="1">1. Perjury; A Crime of that pernicious consequence, that wherever it is generally practic'd, all humane Societies must of ne<g ref="char:EOLhyphen"/>cessity fly asunder, the publick Peace be en<g ref="char:EOLhyphen"/>danger'd, Authority misled, Justice perver<g ref="char:EOLhyphen"/>ted, and the Laws that in themselves are the greatest security of our Lives and For<g ref="char:EOLhyphen"/>tunes, made the Instruments of Revenge and Cruelty. To this purpose the wise Man
+<pb n="3" facs="tcp:95344:4"/> very emphatically stiles <hi>a false witness against his neighbour, a maul, a sword,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 25.18.</note>
+               <hi>and a sharp arrow,</hi> that is, does him as much mischief, as if he struck his head with an Hammer, wounded him with a Sword, and pierced his heart with a sharp Arrow: And St. <hi>James,</hi> no doubt, had a principal regard to this Sin, when he thus elegantly and fully ex<g ref="char:EOLhyphen"/>presses the malign and mischievous effects of an ungovern'd Tongue, <hi>it is a fire,</hi>
+               <note place="margin">St. <hi>Jam.</hi> 3.6, 7.</note>
+               <hi>a world of iniquity, it defileth the whole body, and setteth on fire the course of nature, it is an unruly will, full of deadly poyson.</hi> 'Twas this condemn'd the Prophet <hi>Jeremy</hi> to a loath<g ref="char:EOLhyphen"/>some Dungeon, <hi>Susanna</hi> to a Stake, and the most Innocent <hi>Jesus</hi> to be Crucified. 'Twas this rob'd <hi>Naboth</hi> of his Life and Vinyard together; <hi>Jesebel</hi> Commanded the Elders of <hi>Israel</hi> to suborn <hi>two men sons of Belial,</hi>
+               <note place="margin">1 <hi>King.</hi> 21.10.</note> (none else were fit for it) to swear Treason against him, saying,<note place="margin">Vers. 13.</note>
+               <hi>Naboth did blaspheme God and the King, And then they carried him forth out of the City, and stoned him with stones that he died.</hi>
+            </p>
+            <p>And as this accursed Sin naturally tends to the Ruine of the Community we live in,
+<pb n="4" facs="tcp:95344:5"/> so it flies directl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the face of God himself. He that takes an Oath, appeals to God as a witness of the Truth of what he swears, and as an avenger, if he swears falsly; conse<g ref="char:EOLhyphen"/>quently the perjur'd wretch <hi>lyes not unto men but unto God,</hi> is either a mere Atheist and denies his Being, or an Epicurean in his heart and disowns his Providence; affronts him openly in some of his ten<g ref="char:EOLhyphen"/>derest Attributes, neither believing his Truth, nor fearing his Justice nor stan<g ref="char:EOLhyphen"/>ding in awe of his Power; makes the most Righteous God, as much as in him lies, an accessary to his villany, he gaining belief and credit, more upon Gods account then his own, to that falshood, whereby he works the destruction of his Neighbour; most impudently challenges and dares the Almighty, and in effect says, let God own my lies or shew his angers, countenance them or discountenance me, which is such a strain of horrible and hellish baseness, as cannot but make the Sin to be of the deep<g ref="char:EOLhyphen"/>est dye, and expose it to the heaviest strokes of Divine Vengeance both here and here<g ref="char:EOLhyphen"/>after. A Sin, which God hath not only barely forbid, but forbid with a severe
+<pb n="5" facs="tcp:95344:5"/> threatning. The bl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssed God thought fit to enclose h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s sacred and dreadful name with a strict Precept, as with an hed<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, <hi>thou shalt not take the name of the Lord thy God in vain,</hi> or, as our Saviour at once renders, and expounds the Command,<note place="margin">
+                  <hi>Matt.</hi> 5.33.</note>
+               <hi>thou shalt not forswear thy self,</hi> and least any man should break through, and dare to profane it ei<g ref="char:EOLhyphen"/>ther by common or false Oaths, God ar<g ref="char:EOLhyphen"/>med that hedge with a threat as with a thorne, <hi>for the Lord will not hold him guiltless that taketh his Name in vain.</hi> Now what may not this guilty person fear? Shall he not be curst in his Posterity, moth'd and blasted in his Estate, hated and avoyded by all Men as the greatest Plague and Pest of a Nation, and after all, drink of the cup of Gods fury, that hath all the mighty ills in it, that the malice of a Devil can wish, or the power of God can put into it. A Sin, which a God of Infinite Patience cannot long forbear,<note place="margin">
+                  <hi>Mal.</hi> 3.9.</note>
+               <hi>I will be a swift Witness against the Swearer;</hi> against which, God hath denoun<g ref="char:EOLhyphen"/>ced that <hi>flying role of Curses,</hi> which, says he,<note place="margin">
+                  <hi>Zach.</hi> 5, 4.</note>
+               <hi>shall enter, into the house of him that sweareth falsly by my Name, and it shall remain in the
+<pb n="6" facs="tcp:95344:6"/> midst of his house, and shall consume it with the Timber thereof, and the Stones thereof;</hi> By reason of which, when it becomes Na<g ref="char:EOLhyphen"/>tional, as it does, by the general practise of it, or the impunity of the guilty, The Pro<g ref="char:EOLhyphen"/>phet tells us,<note place="margin">
+                  <hi>Hos.</hi> 4.2.3.</note>
+               <hi>God will have a controversy with the Inhabitants of the Land, and for which a Land, and all that dwell therein shall mourn and languish.</hi>
+            </p>
+            <p n="2">2. Another sin and evil of the Tongue is slander and calumny; the inventing evil things of Men, and falsly imputing them to them; this injurious practice to others is apt to provoke the like usage from them a<g ref="char:EOLhyphen"/>gain, from whence proceed those many feuds and animosities, mutual revilings, and bitter envyings, that are so fatal to the hap<g ref="char:EOLhyphen"/>piness of Life, and the quiet of Society; and when it happens that they are our Go<g ref="char:EOLhyphen"/>vernours that are so rudely and injuriously treated, that are made the scornful objects of mens reproach and calumny, they then prove of a more deadly consequence to the publick welfare: So that it is not for no<g ref="char:EOLhyphen"/>thing that God so strictly commands, <hi>thou shalt not revile the gods,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 22.28.</note>
+               <hi>nor curse the ruler of
+<pb n="7" facs="tcp:95344:6"/> thy people,</hi> the reason and necessity of the thing, as well as the Authority of the Law<g ref="char:EOLhyphen"/>giver, strongly binds it upon us. Common experience tells us that the great strength and security of a Nation consists in the Unity, and good correspondence be<g ref="char:EOLhyphen"/>twixt the several parts of it, when those who govern apply themselves zealously for the good of the Community, and when those who are Governed, are hearty and sincere in their Obedience to those that Rule over them; consequently to divide these parts, and to create mutual Distrusts and Jealousies betwixt them, (which is effectually done by misrepre<g ref="char:EOLhyphen"/>senting Governours, as persons defective, either in their Wisdom or Integrity, as carrying on bad Designs, or unable to undertake any good ones) is to wea<g ref="char:EOLhyphen"/>ken and enfeeble the whole Body, to ex<g ref="char:EOLhyphen"/>pose it to Intestine Broyls or Forreign In<g ref="char:EOLhyphen"/>vasions. To bring an ill Report upon Go<g ref="char:EOLhyphen"/>vernours, is to estrange the Governours Af<g ref="char:EOLhyphen"/>fections from the People, and again to a<g ref="char:EOLhyphen"/>bate of the Peoples just Reverence to their Governours, and by this means the manage<g ref="char:EOLhyphen"/>ment
+<pb n="8" facs="tcp:95344:7"/> of publick affairs in a manner be<g ref="char:EOLhyphen"/>comes unpracticable, and all publick Coun<g ref="char:EOLhyphen"/>cels and Endeavours to cure and settle a diseased and distracted Nation render'd in<g ref="char:EOLhyphen"/>effectual. This weakens the Hands of Au<g ref="char:EOLhyphen"/>thority, and gives factious and maleconten<g ref="char:EOLhyphen"/>ted Spirits an oppertunity to set up for themselves; he that makes his Prince to be undervalued and despised, raises a Rebellion against him in Mens Breasts, beats him out of his Subjects Hearts, and fights him out of their Affections, and having once dispossest him of this his strongest Hold, it will be no hard matter to strip him of all his other Garrisons; neither his Person nor Government can hope to be long in Safety, when once they have wounded his Honour, and put his Reputation to Flight. But in the name of God, what do People of this temper propose to themselves? Do they think that their Governours are not men of Passion and Infirmities, as well as others? Do they not know that the Employments they are engaged in, are so infinitely various and difficult, that they are scarce capable to be managed with that evenness and exact<g ref="char:EOLhyphen"/>ness
+<pb n="9" facs="tcp:95344:7"/> as may exclude all inconveniences? And is it not certain, that how ill soever the ad<g ref="char:EOLhyphen"/>ministration of publick affairs may at any time be under lawful Governours, 'tis yet far more tollerable then even the Reforma<g ref="char:EOLhyphen"/>tion of an usurping Populacy.</p>
+            <p>To conclude this particular, did men, in<g ref="char:EOLhyphen"/>stead of provoking God, and undermining their own and the publick welfare by fals<g ref="char:EOLhyphen"/>hoods and perjuries, imploy their Tongues in celebrating Gods Worship, and <hi>speaking truth to</hi> and of <hi>their Neighbour;</hi> did they, instead of talking at randome of the designs of their Governours, and putting a malici<g ref="char:EOLhyphen"/>ous gloss and interpretation on things they comprehend not, endeavour therewith to promote Truth and Virtue; and a good Un<g ref="char:EOLhyphen"/>derstanding in the Nation, how soon would the condition of things cleare up? and that black cloud that hath so long threatn'd us, be scatter'd and blown over? did they, instead of reviling, and reproaching, and bespattering one another, aggravating each others miscarriages, and stigmatizing each other with black and odious Names and Characters, chain up this unruly Member
+<pb n="10" facs="tcp:95344:8"/> the Tongue, and set a watch before the door of their lips, engaging them only in confessing their own faults, and heartily begging pardon of God and Men for all the injuries they have done to both, how far might this goe, to allay their heats, to com<g ref="char:EOLhyphen"/>pose their differences, and to recover that sweet and courteous and obliging Conver<g ref="char:EOLhyphen"/>sation, to re-establish that Love, and Peace, and good Agreement, that has at any time heretofore render'd this renown'd Nation, particularly, the principal and most glori<g ref="char:EOLhyphen"/>ous part of it, this famous City, so prosperous and happy. <hi>For what man is there that loves life and would see good days, keep thy tongue from evil, and thy lips from speaking guile.</hi>
+            </p>
+            <p n="2">2. The Prophets second direction is, <hi>to depart from evil, and do good.</hi> That is, to a<g ref="char:EOLhyphen"/>voyd every thing that God hath forbidden, that is contrary to his Nature and his Laws, and to doe every thing that God hath com<g ref="char:EOLhyphen"/>manded and is agreable thereunto; to live in the sincere practice of Universal Righte<g ref="char:EOLhyphen"/>ouseness. The prescription is plain enough, and the effectual tendency of it to make men happy is no less evident, to them, who con<g ref="char:EOLhyphen"/>sider.</p>
+            <p n="1">
+               <pb n="11" facs="tcp:95344:8"/>1. That the practice of Virtue and Reli<g ref="char:EOLhyphen"/>gion is the natural cause of happiness: This is the fruitful parent of all those sound and wholsome ingredients whereof the pleasure and happiness of this present life is com<g ref="char:EOLhyphen"/>pounded; what can more highly conduce to the health of a mans Body, to the vigour and activity of his Minde, to the improving of his Estate, to the flourishing of his Repu<g ref="char:EOLhyphen"/>tation, to the honour and safeguard of his whole Life, than this, <hi>his departing from evil and doing good;</hi> virtue seldoms fails of its Reward in this world, 'tis an universal re<g ref="char:EOLhyphen"/>medy and most certain cure for all the ma<g ref="char:EOLhyphen"/>ladies of life, and that which is yet a farther recommendation of it, it's within every mans power and reach, that has but an heart disposed to pray for it, and to endeavour after it. View any place where this Rule is in some good measure observ'd; and there we shall find for the most part, calm and sunshine, peace and prosperity, no tumults to disturbe its repose, no plots to under<g ref="char:EOLhyphen"/>mine and blow up its safety, but every man conversing with freedome, and trading with advantage, in his place and station
+<pb n="12" facs="tcp:95344:9"/> bringing in what aids and assistances he can, to support the Comunity, and thereby ren<g ref="char:EOLhyphen"/>dring himself &amp; every Member of it, in some tolerable degree, secure and happy. How blessed and delightful must that Country needs be, where every little stream runs in its own Channel, calm and undisturb'd by contrary winds, enriching its own banks as it slides, and daily emptying it self a little into the common stock and treasury, as a just and grateful tribute for those perpetual flowings and plentiful recruits, without which it could not long subsist, but must of necessity fail and be dryed up.</p>
+            <p>On the other hand Vice is pregnant with all manner of evils, and with whomsoever it finds a reception, never fails to bring forth innumerable woes and miseries, one sin impairs the strength and shortens the life of man, another has ill designs on his Estate and Fortune, every one leaves a stain upon his name, and, that which is worse, fills his mind with such horrid furies, anxieties and perturbations, that as <hi>Juvenal</hi> was of an opinion, there was no punishment like them, so <hi>Cato</hi> believ'd, that there was none besides
+<pb n="13" facs="tcp:95344:9"/> them. Cast your eye on any place where this rule is genera<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly neglected, where men thwart and live directly contrary to it, de<g ref="char:EOLhyphen"/>parting from good instead of evil, and do<g ref="char:EOLhyphen"/>ing evil instead of good, and we shall find it to have much both of the appearance and substance of Hell it self, a place that's full of feuds and contentions, every man al<g ref="char:EOLhyphen"/>most making it his business to defame and circumvent and betray his Neighbour, and striving to render one another mise<g ref="char:EOLhyphen"/>rable.</p>
+            <p n="2">2. As the practice of Virtue and Religion never fails to obtain the Patronage and Pro<g ref="char:EOLhyphen"/>tection of Divine Providence. <hi>The eyes of the Lord are upon the Righteous,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 34.15.</note>
+               <hi>and his ears are open unto their Prayers.</hi> Righteousness is the Image of God, true goodness where<g ref="char:EOLhyphen"/>soever it is, is a Beame deriv'd from that Fountain of Light, which God cannot choose, if he loves himself, but cherish and bless with a peculiar favour. And as God in a particular manner takes care of single persons, so he is no less tender and watch<g ref="char:EOLhyphen"/>full over Cities and Kingdomes that faith<g ref="char:EOLhyphen"/>fully serve and honour him. The whole
+<pb n="14" facs="tcp:95344:10"/> History of the <hi>Jews</hi> is little else but an ac<g ref="char:EOLhyphen"/>count how God suited the condition of that people to their manners and behaviour; when they rebelled against God and went a whoring after strange Gods, then did he abandon them to themselves and to ruine, but when they repented of their Sins, and heartily returned to him, then did he save them from their Enemies, and bless them with peace and plenty; The Kingdome of <hi>Judah,</hi> whilst Righteousness flourish'd in it, exceeded all its most flourishing neighbour-Kingdomes, as far as the Cedars of <hi>Li<g ref="char:EOLhyphen"/>banus</hi> did the ordinary Trees of the Forrest, and that this stately Cedar did ever and anon, receive very heavy blows, loose ma<g ref="char:EOLhyphen"/>ny of its branches, was rifl'd of its wealth, basly subjected to slavery, and at last utter<g ref="char:EOLhyphen"/>ly hew'd down, must be ascribed to the Divine Vengeance, for their Idolatry, In<g ref="char:EOLhyphen"/>fidelity and barbarous Murder of the Son of God. In like manner has God dealt with all other Nations and Kingdomes of the World. The <hi>Athenian,</hi> when he was mel<g ref="char:EOLhyphen"/>ted into softness and effeminacy by pleasures and debaucheries, was beaten by the more
+<pb n="15" facs="tcp:95344:10"/> sober and severe <hi>Spartan,</hi> and when the <hi>Spartan</hi> degenerated, grew rich and easy, was o'recome by the Warlike <hi>Theban;</hi> The <hi>Mede</hi> Conquer'd the <hi>Assyrian,</hi> and the <hi>Per<g ref="char:EOLhyphen"/>sian</hi> beat the <hi>Mede,</hi> and the <hi>Macedonian</hi> easily subdued the <hi>Persian,</hi> when they were once given over to a life of follies and sen<g ref="char:EOLhyphen"/>sualities; And then the <hi>Roman</hi> he came and swept all away, and whilst the Wisdome and Virtue of that Nation remain'd firm, 'twas as strong as Iron (so its represented in the Prophesie of <hi>Daniel</hi>) and rul'd the World;<note place="margin">
+                  <hi>Dan.</hi> 2.40.</note> but when they also degenerated from their ancient virtues, and became dis<g ref="char:EOLhyphen"/>solute, lustful and perfidious, the Iron be<g ref="char:EOLhyphen"/>gan to be mixt with Clay, and the feet, on which that Empire stood, to be broken, it waxed weak at last, and died under the hands of the <hi>Barbarian.</hi> 'Tis true indeed, God sometimes suffers an unrighteous Na<g ref="char:EOLhyphen"/>tion, like a bad Tree to grow and flourish for a while, from whence he intends to take his rods to scourge others withall, but then, when he hath made use of these rods, he usually throws them into the fire too; so true is that observation of <hi>Solomons, Righte<g ref="char:EOLhyphen"/>ousness
+<pb n="16" facs="tcp:95344:11"/> exalts a Nation,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 14.34.</note>
+               <hi>but Sin is the reproach of any People.</hi>
+            </p>
+            <p>Breifly, if it's the Practice of Virtue and Religion that alone can make <hi>our days many and good,</hi> we may hence infer what it is that makes our days few and evil: Alas! <hi>we do not depart from evil and and do good,</hi> and that puts a stop to our prosperity, and makes the times so uneasy and so troublesome. Sin, when it abounds amongst a People, besides that it provokes God to become a Nations Enemy, is naturally productive of publick woe and misery, Profaneness and Irreligi<g ref="char:EOLhyphen"/>on unties all the bonds of Society, and lets loose men of unbridled lusts and passions to worry and devoure one another; Luxury and Uncleaness prey upon the very spirits and heart-blood of the body Politick, and soon cast it into a feeble and languishing condition, Scism weakens a Nation by di<g ref="char:EOLhyphen"/>viding it, Arms it against it self, and renders it defenceless against its adversaries; The effects of Virtue and Vice are as contrary as their natures, and we may as well imagine Health and Sickness, Peace and War to be consistent with each other, as good days
+<pb n="17" facs="tcp:95344:11"/> with bad practices, as peaceable times with restless lusts; And is it now any wonder that the whole building and frame of our Government shakes and totters, when the very Foundation of all true Peace is so sap't and undermin'd. Are we in great fears, in immanent danger, that Confusion first, and then that Popery in the smoak of that Confusion will break in upon us? Why, 'tis our Profaness and Impieties, our unnatural Feuds, our unreasonable Animosities, that have set open the door, that have encou<g ref="char:EOLhyphen"/>rag'd the restless Emissaries of that Church to make an attempt upon us, and have gi<g ref="char:EOLhyphen"/>ven them hopes to succeed in it; They very well know, how easy an admittance any Religion, though never so corrupt and un<g ref="char:EOLhyphen"/>christian, will find amongst those who are of no Religion at all; and how just is it! that we, who would not be reform'd and reclaim'd by the best Religion and best Church in the World, should be given o<g ref="char:EOLhyphen"/>ver by God to a Spirit of Delusion and Su<g ref="char:EOLhyphen"/>perstition to believe a Lye; But if ye sin<g ref="char:EOLhyphen"/>cerely love your Religion, and desire to have that and your selves see <hi>many and good
+<pb n="18" facs="tcp:95344:12"/> Days,</hi> you must walk worthy of it in all Ho<g ref="char:EOLhyphen"/>liness and Righteousness, <hi>you must depart form evil and do good.</hi>
+            </p>
+            <p n="3">3. The Psalmists third direction followes, <hi>seek Peace and pursue it;</hi> In discoursing on which I shall first shew you what is to be done by us in order to the preserving and retrei<g ref="char:EOLhyphen"/>ving Peace amongst us, and then secondly, how great a Blessing Peace is, and how much it Conduces to the making <hi>our days many and good.</hi>
+            </p>
+            <p n="1">1. What's to be done by us in order to Peace; and this I shall give an account of in these following particulars. The first is,</p>
+            <p n="1">1. A quiet and peacable Subjection to that Government we live under, The Object of all laws are either things mo<g ref="char:EOLhyphen"/>rally and intrinsecally good or evil, or things of an indifferent nature and altoge<g ref="char:EOLhyphen"/>ther uncommanded by God, The first of these, both as to their Nature and influences upon the publick cannot be altered by any humane power, things good in themselves will always be good and prove good to men, and things evil in themselves will always be evil and prove evil to men. These lye not at
+<pb n="19" facs="tcp:95344:12"/> the mercy and discretion of the supreme Ma<g ref="char:EOLhyphen"/>gistrate, but without any danger of impair<g ref="char:EOLhyphen"/>ing his power are lop't off from his Juris<g ref="char:EOLhyphen"/>diction; should hee therefore, as that great Cardinal puts the case in Relation to the Pope, <hi>err so far as to call evil good, good evill,</hi>
+               <note place="margin">
+                  <hi>Bell.</hi> de Rom. Pontiff. lib. <hi>4.</hi> c. <hi>5.</hi>
+               </note>
+               <hi>to prohibit virtues or Command vices, we are not bound in Conscience,</hi> as he tells us we are in that case, <hi>to beleive those vices good and those virtues evil,</hi> but to esteem them as they are in their own nature and <hi>to Obey God rather then Men.</hi> But then for things of an indifferent na<g ref="char:EOLhyphen"/>ture, that are left at liberty and undeter<g ref="char:EOLhyphen"/>min'd as to their morality by any natural or positive law of God, these must be suppos'd determinable either way by the Commands of Sovereign Authority; and indeed the pro<g ref="char:EOLhyphen"/>per office of humane power being to consult the peace and interest of humane Societys, and many of those things that are indiffe<g ref="char:EOLhyphen"/>rent, proveing in all the various turns and postures and Circumstances of humane af<g ref="char:EOLhyphen"/>fairs, sometimes beneficial and sometimes pernicious to the Common-wealth, it is therefore necessary (the suprem Magistrate
+<pb n="20" facs="tcp:95344:13"/> being the supreme Judge of the publick good) that they fall under the guidance of his Laws and the Conduct of his Government. Would men therefore instead of taking upon them to Judg what is expedient to be injoin'd, humbly and chearfully comply with what is lawful to be observ'd, (the former, be<g ref="char:EOLhyphen"/>longing only to Governours, the latter to Subjects,) how mightily would this contri<g ref="char:EOLhyphen"/>bute to Peace! how firmly would this set and unite a broken and divided People!</p>
+            <p n="2">2. That every man keep in that place and station Divine Providence hath set him, and not venture to act out of his own Sphere; one of the best means to preserve Peace, is doubtless for every man <hi>to doe his own business.</hi> There can be no Peace without Order, and no Order whilst men break their Ranks, and neglecting their own private duties, spend the greatest part of their time in medling with State-matters; Publick affairs must be left to the manage<g ref="char:EOLhyphen"/>ment of publick persons, Sacred things to the Administration of persons called and se<g ref="char:EOLhyphen"/>parated to that Work, and private men must keep within their own bounds, and fol<g ref="char:EOLhyphen"/>low
+<pb n="21" facs="tcp:95344:13"/> their own employments which being bred up to, they best understand and may be most usefull in, both to themselves and the Community. Do we at any time see abuses and disorders in the State? cor<g ref="char:EOLhyphen"/>ruptions and deformities in the Church▪ we are bound to do what we ought and can doe in our own proper place to put a stop to them; whatever opposition we can make to them by our Wishes, our Studies, our Prayers to God; whatever disgrace we can put upon them, whatever amendment we can make in those that commit them, by convincing Arguments, by serious Intrea<g ref="char:EOLhyphen"/>ties, by seasonable Reproofs, or just com<g ref="char:EOLhyphen"/>plaints to our Superiors, especially by our own Example of a more regular and order<g ref="char:EOLhyphen"/>ly Demeanour, all this we may and should perform, and was this done as it ought, it would perhaps be a sufficient Task for the most zealous private Christians in the world; But now what else is to be done, is intrust<g ref="char:EOLhyphen"/>ed by God, and therefore ought to be left by Men to the lawful publick Authority in Church and State. Did every under-Marri<g ref="char:EOLhyphen"/>ner in a Storm leave the Pump and his own
+<pb n="22" facs="tcp:95344:14"/> perticular Charge to instruct the Pilot? Did every common Souldier in time of Battle quit his Post and Ground to direct his Cap<g ref="char:EOLhyphen"/>tain? And every inferiour Captain desert his own Company to teach his General? What suddain tumults and confusions would this breed? Would not this raise as great a Storm in the Ship as there is in the Sea? Would it not put the Army into as much Danger from its own Disorders, as from the Force of the Enemy? In like manner it can never be well with us, whil'st private Men neglecting their Trades and secular Professions, wholly employ themselves in hearing and telling publick News, in mend<g ref="char:EOLhyphen"/>ing and reforming the State, and making odious representations of every thing and person that does not strike their Fancy, or suit with their Designs; this cannot but ruf<g ref="char:EOLhyphen"/>fle and disorder the course of things, create great disturbances amongst Men, and put the whole Community into Danger and Jeopardy. Alass! Sirs, every man is not born to weild a Scepter, to sit at the Helm, and to Steer the State-vessel, this is above the capacity of most Men, I am sure, con<g ref="char:EOLhyphen"/>trary
+<pb n="23" facs="tcp:95344:14"/> to the Duty of all private Men; who, had they indeed that Wisdom and Judg<g ref="char:EOLhyphen"/>ment they pretend to, would esteem it their Interest as well as their Duty, to keep their own Rank, though it be not that of a Lea<g ref="char:EOLhyphen"/>der, and to enjoy the blessed Fruits of Go<g ref="char:EOLhyphen"/>vernment without the Thornes, the Cares and Vexations of it. There was indeed in the Jewish Church some extraordinary Cases, wherein God as a Political King over them, did Immediately stir up some Persons, such as <hi>Phinehas, Jehu, Elias,</hi> and others and gave them power without any ordina<g ref="char:EOLhyphen"/>ry process by Law in an extraordinary manner to reform abuses, and to punish of<g ref="char:EOLhyphen"/>fendors; and on pretence of imitating their example, there arose among the Jews a Seckt, which called themselves Zealots, a bloody and cruel Seckt, who whilst they pretended to be empoured by a secret im<g ref="char:EOLhyphen"/>pulse from above to do speedy execution on sinners, committed all manner of abo<g ref="char:EOLhyphen"/>minations, and filled the Nation with blood and violence; and if we will believe the Hi<g ref="char:EOLhyphen"/>storian, 'twas not so much the Force and Arms of their Enemies, as the intestine con<g ref="char:EOLhyphen"/>fusions
+<pb n="24" facs="tcp:95344:15"/> and divisions kindled by that mad and furious Seckt, that wrought their destructi<g ref="char:EOLhyphen"/>on and betrayd their Country into Slavery. But our blessed Saviour, who hath put an end to the Jewish State, hath also put an end to all pretences of this nature, amongst all the miracalous gifts of the Spirit recited in the new Testament, there is no mention made of <hi>Heroical Impulse;</hi> our Saviour who came not to destroy mens lives but to save them, gave no such Killing <hi>gifts unto Men;</hi> The Christian Spirit is not so <hi>fiery</hi> as that of <hi>Elias,</hi> the Christian Doctrine ad<g ref="char:EOLhyphen"/>mits of no other heats of Zeal, but what are consistent with Meekness and Sobriety, with Peace and Obedience to the civil Magi<g ref="char:EOLhyphen"/>strate whom God hath constituted his sole <hi>Minister</hi> on Earth <hi>to Execute wrath upon them that do evil.</hi> But least any Man should say, that whatever is the Doctrine of Christ, his example was otherwise; for do we not find him with a whip in his hand removing the Exchange, and driving the Buyers and Sellers out of the Temple? Was not his Zeal for the Beauty and Purity of Gods Worship so great, his Indignation against
+<pb n="25" facs="tcp:95344:15"/> them that prophan'd it so hot, that he could not forbear manefesting in an extraordina<g ref="char:EOLhyphen"/>ry way his displeasure against them? 'Tis therefore to be remembred, that our Savi<g ref="char:EOLhyphen"/>our was a publick Person, immediatly sent down from Heaven, and commissioned by his Father to reform the World, and conse<g ref="char:EOLhyphen"/>quently his example in this perticular can<g ref="char:EOLhyphen"/>not give the least warrant to any private Christian, on his own call, or on his own imagination of a call from God, to attempt the like. Noe, St. <hi>Pauls</hi> precept is very strong and obligatory upon all private Chri<g ref="char:EOLhyphen"/>stians,<note place="margin">1 <hi>Thes</hi> 4.11.</note>
+               <hi>that they study to be quiet and to doe their own business.</hi>
+            </p>
+            <p n="3">3. A constant and conscientious adhe<g ref="char:EOLhyphen"/>ring to that Church that is establisht a<g ref="char:EOLhyphen"/>mongst us. It's often and generally said, why should not we Protestants, notwith<g ref="char:EOLhyphen"/>standing the difference of our Judgments in some things, cordially uni<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, love and em<g ref="char:EOLhyphen"/>brace each other? And why should we not indeed? But how probable soever this looks in the Theory, sad experience shews, that nothing is more hard and difficult to be put in practice, that nothing more divides mens
+<pb n="26" facs="tcp:95344:16"/> minds and alienates their affections, then their different sentiments in matters of Re<g ref="char:EOLhyphen"/>ligion, especiall<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, amongst melancholly En<g ref="char:EOLhyphen"/>thusiasts and deluded Zealots, who will have no opinions right but their own. So that, considering the passions of humane Nature, so long as differences and compe<g ref="char:EOLhyphen"/>titions in Religion are kept up, it will be next to an impossibility to keep down mu<g ref="char:EOLhyphen"/>tual jealousies and animosities. But, one God, one Faith, one Worship, will make Hearts one, banish discord, cement Society, procure mutual respect and affection be<g ref="char:EOLhyphen"/>tween Governours and Subjects, and make Subjects live in a fair correspondence and firm agreement with one another. Blessed be God, we have a Church, so rightly con<g ref="char:EOLhyphen"/>stituted, so soberly model'd, so duly autho<g ref="char:EOLhyphen"/>riz'd, so warrantably reform'd, it's Ceremo<g ref="char:EOLhyphen"/>nies so few and decent, it's Liturgy so devout and spiritual, it's Doctrine so pure, simple and Apostolical, it's Discipline so primitive prudent and merciful, that it's easie to prove, and has already over and over been done, that they, who refuse Communion with her, must upon the same principles, if they
+<pb n="27" facs="tcp:95344:16"/> keep to them, refuse Communion with all the setled Churches that either now are or ever were in the Christian World.</p>
+            <p n="4">4. That laying aside all pride and passion, and self-interest, we pursue after truth with purity and simplicity of intention. In all the disputes about Religion amongst us, we may observe something else besides the love of Truth that makes Men so fierce and ob<g ref="char:EOLhyphen"/>stinate in them. It may be a Man has e<g ref="char:EOLhyphen"/>spoused a Seckt and Party, and therefore thinks himself oblig'd to be warm and active in promoting the interests of it, It may be, he has heretofore appear'd much in the fa<g ref="char:EOLhyphen"/>vour of an opinion, and now thinks it in<g ref="char:EOLhyphen"/>consistent with his Credit and Reputation to retreat, or it may be, he has received some affront and disappointment in one way, and therefore in pure pett and revenge he goes over to the Enemies Camp: when <hi>Diotrephes</hi> seeks the preeminence, the dictates of an Apostle shall be rejected by him, and the Di<g ref="char:EOLhyphen"/>vinity of our Lord, God blessed for ever<g ref="char:EOLhyphen"/>more shall he trampled upon, when <hi>Arius</hi> wants a Footstool to climb up to his affected greatness: Again, it may be, it is for his inter<g ref="char:EOLhyphen"/>est
+<pb n="28" facs="tcp:95344:17"/> and advantage, to hold this or that Doc<g ref="char:EOLhyphen"/>trine, to be for this or that perticular mode of administration, and then we must not expect that many Men will prefer Truth before their Interests, the Eagles will be where the carcase is, and that usually has the faith of most that pays best for it: Thus do the secular interests and designs of Men many times take them from themselves, en<g ref="char:EOLhyphen"/>slave their understandings, tincture their mindes with false colours, and fill them with prejudices and undue apprehensions of things. The fumes of lust and passion cloude the understanding, blind the eye of reason, corrupt the judgment, the judgment corrupt<g ref="char:EOLhyphen"/>ed, misguides the will, the will misled, gives birth to errors and heresies, and they again to strifes and contentions.<note place="margin">
+                  <hi>Jam.</hi> 4.1.</note>
+               <hi>From whence come wars and fightings amongst you?</hi> Says St. <hi>James, came they not hence, even of your lusts that war in your Members?</hi>
+            </p>
+            <p n="5">
+               <note place="margin">
+                  <hi>Col.</hi> 3.13.</note>5. That we bear with one anothers weak<g ref="char:EOLhyphen"/>nesses and infirmities, <hi>forbearing one another,</hi> says the Apostle. Humane nature is indi<g ref="char:EOLhyphen"/>spensibly subject to blindness, impatience and levity, mightily prone to mistake and
+<pb n="29" facs="tcp:95344:17"/> misbehaviour; the nature of a mans Soul is as far from Infallibility, as the constitu<g ref="char:EOLhyphen"/>tion of his Body is from Immortality, and we can no more hope in all cases to be free from error and mistake, than we can at all times to be exempted from Sickness and Death. Now how reasonable is it that they should forgive, who so often themselves stand in need of forgiveness? We must not be of vindictive spirits, as not apt to pro<g ref="char:EOLhyphen"/>voke, so not in a rage and madness when we are. We must not think it an Argument of a low and dejected spirit,<note place="margin">
+                  <hi>Prov.</hi> 19.11.</note> not <hi>to repay evil with evil,</hi> when the word of God makes <hi>it the wisdom and glory of a Man to pass over a transgression; his Glory,</hi> as being the most likely way to get the conquest and victory over him; <hi>Tertullian</hi> tells us, that by the exercise of this grace the primitive Christi<g ref="char:EOLhyphen"/>ans found it a difficult matter at length to obtain Martyrdom for want of an Execu<g ref="char:EOLhyphen"/>tioner: <hi>His Wisdom,</hi> as thereby laying up in store a pardon for himself, and that not only from Men when he offends them, but from God too whom he daily provokes; <hi>for<g ref="char:EOLhyphen"/>giving one another, if any Man has a quarrel
+<pb n="30" facs="tcp:95344:18"/> against any: even as Christ forgave you. so al<g ref="char:EOLhyphen"/>so do ye.</hi> Our offences against God are in<g ref="char:EOLhyphen"/>finitely more and greater than any Man's can be against us; ours in the parable, being <hi>ten thousand talents</hi> and committed against our Sovereign <hi>Lord,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 18.25.</note> his, only <hi>an hundred pence</hi> and committed against <hi>his fellow-ser<g ref="char:EOLhyphen"/>vant;</hi> Now if God be of such immeasura<g ref="char:EOLhyphen"/>ble patience and mercy as to <hi>forgive us our trespasses against him,</hi> that are so many and so great, we cannot but conclude it just and reasonable to forgive our Bro<g ref="char:EOLhyphen"/>ther <hi>his trespasses against us,</hi> that in compa<g ref="char:EOLhyphen"/>rison are so few and so little; especially consi<g ref="char:EOLhyphen"/>dering, that as we do to others so it shall be done to us,<note place="margin">
+                  <hi>Jam.</hi> 2.15:</note> even in this matter of pardon and remission; he <hi>shall have judgment with<g ref="char:EOLhyphen"/>out mercy that shews no mercy;</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 18.35.</note> And <hi>so like<g ref="char:EOLhyphen"/>wise shall my heavenly Father,</hi> says our Savi<g ref="char:EOLhyphen"/>our, <hi>do also unto you, if ye from your hearts forgive not every one his Brother their trespasses.</hi>
+            </p>
+            <p n="6">6. That we pray for Peace. The ex<g ref="char:EOLhyphen"/>orbitant Lusts and Passions of men are by the Psalmist compared to the raging waves of the Sea, and the same Almighty Power that sets bounds to the one, must also quiet
+<pb n="31" facs="tcp:95344:18"/> and restrain the other.<note place="margin">
+                  <hi>Psal.</hi> 65.7.</note>
+               <hi>Thou stillest the noise of the Sea and the tumult of the People.</hi> 'Tis God, who restrains popular Insolencies by an im<g ref="char:EOLhyphen"/>planted reverence to Authority, who keeps that unruly beast, the multitude, from know<g ref="char:EOLhyphen"/>ing its own strength, and so from attemp<g ref="char:EOLhyphen"/>ting to throw it's rider. This <hi>David</hi> acknow<g ref="char:EOLhyphen"/>ledg'd, <hi>it's God that subdueth the People un<g ref="char:EOLhyphen"/>der me:</hi> Let us pray then that God,<note place="margin">
+                  <hi>Psal.</hi> 144.2. <hi>Psal.</hi> 33.15.</note>
+               <hi>who fashioneth the hearts of all men,</hi> would be pleas'd to soften and mollifie and turn them towards Peace and Unity, that he would cool the heat of mens Passions and allay their violences in revenging injuries on each other, that he would call in that Spirit of Schism and Contention that is gone out a<g ref="char:EOLhyphen"/>mongst us, that so we may love like Brethren and live like Christians, <hi>obeying those that have the Rule over us, and keeping the Ʋnity of the Spirit in the bond of Peace;</hi> So Prayed our Royal Prophet, <hi>Do good, Oh God,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 51.18.</note>
+               <hi>in thy good pleasure to Sion, build thou the Walls of Jerusalem. Arise, Oh Lord,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 102.13.</note>
+               <hi>and have mercy upon Sion, for the time to favour her, yea, the set time is come:</hi> So he taught us to pray, <hi>Oh, pray for the Peace of Jerusalem,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 122 6, 7, 8.</note>
+               <hi>they shall
+<pb n="32" facs="tcp:95344:19"/> prosper that love thee; Peace be within thy Walls, and Plenteousness within thy Palaces. For my Brethren and Companions sake, I will wish thee Prosperity, yea, because of the house of the Lord our God, I will seek to do thee good.</hi>
+            </p>
+            <p n="2">2. Having thus shown you in what way's peace is to be sought and pursued, I pro<g ref="char:EOLhyphen"/>ceed to shew, how great a blessing peace is, and how highly it tends to make our days many and good. And it does so,</p>
+            <p n="1">1. As it whets and excites diligence and industry in Mens several Callings, by gi<g ref="char:EOLhyphen"/>ving them hopes of success in them. Now may persons hope to reape the fruits of their Labours, that themselves or their po<g ref="char:EOLhyphen"/>sterity shall enjoy what they have workt for, that all their lawful undertakings shall re<g ref="char:EOLhyphen"/>turn crown'd with their desired effects; and this makes them easie at home and quiet a<g ref="char:EOLhyphen"/>broad, chearful under the sweat and toyls of their calling, and useful to publick ends. But, on the contrary, in times of trouble and distraction, how oft does one sow and another reape? One build and another take possession? One plant, and another gather the Fruits? Now is the Man in continual
+<pb n="33" facs="tcp:95344:19"/> fears and disquietude of mind, that hee's waring out his mind and body to no pur<g ref="char:EOLhyphen"/>pose, that hee's either labouring for a stran<g ref="char:EOLhyphen"/>ger, or providing for an enemy, and not for himself and his dearest Relatives; and this not only takes off his mind and his hands from his Calling and Business, but puts him upon living by his shifts, and by unlawful and violent courses, and when this comes to be generally practic'd, it cannot but of necessity bring all things to suddain ruin and confusion.</p>
+            <p n="2">2. As it gives Men security in the enjoy<g ref="char:EOLhyphen"/>ment of their Estates and Possession; in times of popular tumults and insurrections, the fears of loosing what a Man has creates him more trouble then the enjoyment gives him content. What advantage then will it be, to be great and honourable, when the higher he stands, the more open and exposd he is to the Storm, the more obvious'a mark does he become for others malice and envy to shoot their venome at? What good will it then doe, to have a large Fortune, when the larger it is, the greater tempta<g ref="char:EOLhyphen"/>tion it will be to others more powerfull then
+<pb n="34" facs="tcp:95344:20"/> himself to ravish it from him and his life in<g ref="char:EOLhyphen"/>to the bargain? What satisfaction will it then afford, to have an hopeful and nume<g ref="char:EOLhyphen"/>rous issue, when such Times shall endanger the loss both of their Lives and Vertue, of their Lives by the violence and treachery, and of their Vertue by the loosness and de<g ref="char:EOLhyphen"/>bauchery of them; In sum, Now all boun<g ref="char:EOLhyphen"/>daryes of Laws are broken down, all fences of right pull'd up, the longest Sword is the best Title, and he gets most that has most power: This is the sad and deplorable con<g ref="char:EOLhyphen"/>dition of that place, where Peace and Con<g ref="char:EOLhyphen"/>cord are fled away: Now therefore happy are those days that are quiet and peaceable, wherein Men may live in safety, protected by Laws, and blest in the mutual ayds and assistances of one another, enjoying without fear, and possessing without danger, no stirs appearing, no Plots or Tragedies occurring, nothing from without to sower and imbitter the comforts the Divine goodness hath mul<g ref="char:EOLhyphen"/>tiplied upon them.</p>
+            <p n="3">3. As it affords the fittest oppertunity for the practice of Religion and Virtue, and so conduces to the happiness of the future
+<pb n="35" facs="tcp:95344:20"/> State as well as of this, (and indeed without the hopes of future Bliss we can have none at present;) Now Virtue and Religion can never flourish there where Peace &amp; Unity in some degree are not maintain'd. The great du<g ref="char:EOLhyphen"/>tyes of Religion are to <hi>Love God with all our Hearts,</hi> and to <hi>Love our Neighbour as our Selves;</hi> But in such times of trouble mens Minds are so taken up and perplexed, in preserving their Lives or securing their for<g ref="char:EOLhyphen"/>tunes or providing for their Families, in helping their friends or defeating their Ene<g ref="char:EOLhyphen"/>mies that either they serve God not at all, or which is but little better, with distracted and confus'd thoughts and without those di<g ref="char:EOLhyphen"/>vine Affections that may give their Service acceptance with him; Again, the opposite Interests and different sides that Men have espous'd, make them in such times <hi>as little love one another</hi> as they love God; bitter zeal for their cause &amp; party soon eats up all that love and kindness, nay, all that justice and fair dealing that ought to be amongst Men, and leaves them like so many salvage beasts to bite and prey upon one another. Now how blessed are those days of Peace, that
+<pb n="36" facs="tcp:95344:21"/> cherish Piety towards God, and preserve love and good-will in Men to one another, when every Man may worship God with fix<g ref="char:EOLhyphen"/>ed attention and with pure affections, and exercise acts of Juctice and Charity to Men without any interruption from his own fears or other Mens lusts; upon this account the Apostle so earnestly exhorts, <hi>I exhort that first of all,</hi>
+               <note place="margin">
+                  <hi>Tim.</hi> 1.2.12.</note>
+               <hi>Supplications, Prayers, Intercessions and giving of thanks be made for all Men, for Kings and for all that are in Authority, that we may lead a qui<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t and peaceable life in all godliness and honesty.</hi> 'Tis <hi>Prayer</hi> that ob<g ref="char:EOLhyphen"/>tains Gods blessing <hi>upon Kings and those in Authority,</hi> Gods blessing upon them gives <hi>quiet and peace,</hi> and peace is the nurse <hi>of godliness and honesty.</hi>
+            </p>
+            <p>Shall I now need to add any thing more to perswade you <hi>to seek Peace and pursue it;</hi> There is not any Duty the Gospel lays a greater stress upon,<note place="margin">
+                  <hi>Heb.</hi> 12.14. <hi>Rom.</hi> 14.13.1.4.11. <hi>Rom.</hi> 16.17.2.3.6.</note> thus it frequently ex<g ref="char:EOLhyphen"/>horts and inculcates, <hi>follow Peace, follow af<g ref="char:EOLhyphen"/>ter the things that make for Peace, Study to be quiet, be of one mind and live in Peace, Mark them that cause Divisions and avoyd them, withdraw your selves from every Brother
+<pb n="37" facs="tcp:95344:21"/> that walketh disorderly;</hi> Not any Duty more suitable to the Nature &amp; Spirit of the Gospel; wherever it is Cordially embrac'd, it makes men Meek and Humble, contented with their Condition, patient towards all men and ready to forgive, begets a most sweet and benevolent disposition of mind, an awful re<g ref="char:EOLhyphen"/>gard for Governours and a mighty concern for the publick safty; These are the precepts, this the true genius and temper of the Gos<g ref="char:EOLhyphen"/>pel, <hi>it's pure and peacable,</hi> and he that pre<g ref="char:EOLhyphen"/>tends to be a Christian without these, is a Christian without Christianity. Let me then this day take up St. <hi>Pauls</hi> pathetical exhortation to you, let me beseech you, let me conjure you,<note place="margin">
+                  <hi>Phil.</hi> 2.1.</note>
+               <hi>if there be any consolation in Christ, if any comfort of love, if any fellowship of the spirit, if any bowels and mercies,</hi> if you have any <hi>de<g ref="char:EOLhyphen"/>sire to see good days,</hi> any sincere love for your Religion, any care for your own Souls, any concern for your Posterity, any com<g ref="char:EOLhyphen"/>passion for your native Country, any bow<g ref="char:EOLhyphen"/>els for the wounds of a bleeding Church and State, let me beseech you by all that's sacred and dear to you, that <hi>laying aside all bit<g ref="char:EOLhyphen"/>terness,
+<pb n="38" facs="tcp:95344:22"/> and wrath, and anger, and clamour, and evil-sqeaking, with all malice,,</hi> you would, <hi>if it be possible,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 12.18.</note>
+               <hi>and as much as in you lies, live peaceably with all men,</hi> you would <hi>fear God,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 24.21.</note>
+               <hi>honour the King, and not meddle with them that are given to change.</hi>
+            </p>
+            <closer>Now God grant that the course of this World be so peaceably ordered by his Go<g ref="char:EOLhyphen"/>vernance that his Church may Joyfully serve him in all godly quietness through <hi>Jesus Christ</hi> our Lord. <hi>Amen.</hi>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
